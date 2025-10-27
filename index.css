@@ -97,8 +97,8 @@
 }
 
 .box2 {
-    /* border: 6px solid rgb(56, 56, 56);
-    border-radius: 30px; */
+     border: 6px solid rgb(56, 56, 56);
+    border-radius: 30px;  
     margin-top: 3.5rem;
     height: 85%;
     width: 45%;
